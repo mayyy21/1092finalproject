@@ -1,0 +1,13 @@
+div{
+    width: 50%;
+    height: 200px;
+    background-color: aqua;
+    cursor: url(man.png),auto;
+
+}
+
+p{
+    height:30px;
+    font-size:large;
+    
+}
